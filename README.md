@@ -1,4 +1,4 @@
-#A simple console game called "Bomberman" written in C++ using classes. 
+# A simple console game called "Bomberman" written in C++ using classes. 
 
 ## A short description:
 Bomberman is a game in which you have to "destroy" your enemy with a bomb. These bombs 
