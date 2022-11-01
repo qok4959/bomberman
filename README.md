@@ -1,6 +1,7 @@
 # A simple console game called "Bomberman".
 
-## Tech stack: C++ OOP
+## Tech stack:
+- C++ OOP
 
 ### A short description:
 Bomberman is a game in which you have to "destroy" your enemy with a bomb. These bombs 
